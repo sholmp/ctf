@@ -1,7 +1,5 @@
 # Exploiting a format string vulnerability
 
-**Søren Holm-Petersen**
-
 ### Introduction
 
 This paper details how and why a format string attack works. The exploit will be demonstrated on a specific webserver, which hosts a "Capture The Flag" (CTF) wargame. A CTF wargame is a collection of exploit related puzzles you solve to collect "flags".
